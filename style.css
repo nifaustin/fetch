@@ -1,0 +1,19 @@
+.container
+{
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: italic;
+    border: 6cm;
+
+}
+body{
+    background-color: black;
+}
+button{
+    color: rgb(80, 5, 141);
+    font-style: oblique;
+   font-size:  xx-large;
+   margin-left: 50%;
+
+}
